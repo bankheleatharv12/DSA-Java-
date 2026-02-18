@@ -17,10 +17,10 @@ class ReverseString{
         while(!s.empty()){
             stackArr[i]=s.pop();
             i++;
-        }
         return new String(stackArr);
      
     
+}
 }
 }
 
@@ -36,4 +36,5 @@ public class Client{
 
         System.out.println(rev);
     }
+}
 }

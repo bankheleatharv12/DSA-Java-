@@ -1,3 +1,4 @@
+package LinkedList;
 class Node{
     Node prev=null;
     int data;

@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import Stacks.Client;
+
 class Client{
 
     int queueArr[];
