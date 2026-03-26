@@ -1,7 +1,6 @@
 package Trees;
 import java.util.*;
 
-import LinkedList.Node;
 class Node{
     
     int data;
