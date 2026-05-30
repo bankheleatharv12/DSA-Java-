@@ -1,7 +1,7 @@
 package Patterns;
 import java.util.*;
 
-public class NineteenthPattern {
+public class NineteenthPattern{
 
     void printN(int N){
 
@@ -10,7 +10,6 @@ public class NineteenthPattern {
             for(int j=0; j<(N-i)/2; j++){
                 System.out.print("*");
             }
-            
             
             for(int j=0; j<2*(i);j++){
                 System.out.print(" ");
@@ -39,7 +38,6 @@ public class NineteenthPattern {
              System.out.println();
         }
 
-       
     }
 
         
